@@ -4,7 +4,7 @@ The introductory interface reveals three tabs:
 - About: A summary of the application's purpose and functionality.
 - Key Insights: A motley of inferences from the analysis points.
 - Welcome to Boston: A peek into the beautiful city of Boston.
-- 
+ 
 For each selected index, the user is presented with a bespoke sub-menu to customise their query.
 
 A successful query will reveal a clearly developed graph, a filtered data table displaying the underlying data, and five-point summary of the selected weather metric. There is also a description tab for each index that succinctly delineates its function.
