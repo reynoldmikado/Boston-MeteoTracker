@@ -4,6 +4,7 @@ The opening interface reveals three tabs:
 - Key Insights: A short motley of inferences from the analysis of the data underlying the project.
 - Welcome to Boston: A peek into the beautiful city of Boston.
 For each selected index, the user is presented with a menu of customised sub-options to guide their query.
+
 A successful query will reveal a clearly developed graph, a filtered data table displaying the underlying data, and five-point summary of the weather metric selected. There is also a description tab that succintly delineates the function of that index.
 
 In a nutshell, it is an educational tool and useful guide into the last 11 years of Boston's weather history.
