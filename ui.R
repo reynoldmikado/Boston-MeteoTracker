@@ -1,0 +1,29 @@
+#library for creating the web app
+library(shiny)
+fluidPage(theme = shinytheme('flatly'),
+          #title of the web app
+          titlePanel(title = 'Boston MeteoTracker'),
+          #structure of the sidebar
+          sidebarLayout(
+            sidebarPanel(
+              #radio buttons to create the list on the sidebar
+              pickerInput(inputId = 'index', 
+                           label = 'Select an Index ', 
+                           choices = c('- Select An Option Below -',
+                                       'Metric Overview',
+                                       'Time Series',
+                                       'Annual Average',
+                                       'Daily Seasonal Trend',
+                                       'Annual Seasonal Trend',
+                                       'Metric Correlation',
+                                       'Wind Analysis'),
+                          options = list(`actions-box` = TRUE)),
+              #sub-options of each item on the list should be returned dynamically
+              uiOutput('dynamicUI'),
+            ),
+            #body of the web app
+            mainPanel(
+              uiOutput('indexPanel')
+              )
+  )
+)
