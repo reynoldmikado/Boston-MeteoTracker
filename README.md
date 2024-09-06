@@ -6,7 +6,7 @@ The opening interface reveals three tabs:
 - Welcome to Boston: A peek into the beautiful city of Boston.
 For each selected index, the user is presented with a menu of customised sub-options to guide their query.
 
-A successful query will reveal a clearly developed graph, a filtered data table displaying the underlying data, and five-point summary of the weather metric selected. There is also a description tab for each index that succintly delineates its function.
+A successful query will reveal a clearly developed graph, a filtered data table displaying the underlying data, and five-point summary of the selected weather metric. There is also a description tab for each index that succintly delineates its function.
 
 In a nutshell, it is an educational tool and useful guide into the last 11 years of Boston's weather history.
 I hope you enjoy using this app. Cheers!
