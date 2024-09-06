@@ -1,4 +1,4 @@
-The Boston MeteoTracker is a shiny application that investigates, explores, analyses and presents findings about various weather patterns in Boston spanning 2013 to 2023 across the four seasons. These points of analysis, designated Index, surfeit the results of the analysis with different charts like bar graphs, wind rose diagrams, box plots, violin plots, line graphs, and scatter plots, five-point statistical summaries, and data tables. Ultimately, these analysis points and their accompanying results could help industries, business, and individuals engender bespoke decisions to avert undesirable uncertainties.
+The Boston MeteoTracker is a shiny application that investigates, explores, analyses and presents findings about various weather patterns in Boston spanning 2013 to 2023 across the four seasons. These points of analysis, designated Index, surfeit results with different charts like bar graphs, wind rose diagrams, box plots, violin plots, line graphs, and scatter plots, five-point statistical summaries, and data tables. Ultimately, these analysis points and their accompanying results could help industries, business, and individuals engender bespoke decisions to avert undesirable uncertainties.
 
 The opening interface reveals three tabs:
 - About: A summary of the application's purpose and functionality.
@@ -6,7 +6,7 @@ The opening interface reveals three tabs:
 - Welcome to Boston: A peek into the beautiful city of Boston.
 For each selected index, the user is presented with a menu of customised sub-options to guide their query.
 
-A successful query will reveal a clearly developed graph, a filtered data table displaying the underlying data, and five-point summary of the weather metric selected. There is also a description tab that succintly delineates the function of the selected index.
+A successful query will reveal a clearly developed graph, a filtered data table displaying the underlying data, and five-point summary of the weather metric selected. There is also a description tab for each index that succintly delineates its function.
 
 In a nutshell, it is an educational tool and useful guide into the last 11 years of Boston's weather history.
 I hope you enjoy using this app. Cheers!
