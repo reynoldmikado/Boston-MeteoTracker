@@ -1,7 +1,7 @@
 The Boston MeteoTracker is a shiny application that investigates, explores, analyses and presents findings about various weather metrics in Boston spanning 2013 to 2023. These points of analysis, designated Index, surfeit results with charts like bar graphs, wind rose diagrams, box plots, violin plots, line graphs, scatter plots, five-point statistical summaries, and data tables. Ultimately, these analysis points and their accompanying results could furnish industries, businesses, and individuals with insights to avert undesirable outcomes and guide disruptive strategies.
 
 The introductory interface reveals three tabs:
-- About: A summary of the application's purpose and functionality.
+- About: A recap of the application's purpose and functionality.
 - Key Insights: A motley of inferences from the analysis points.
 - Welcome to Boston: A peek into the beautiful city of Boston.
  
