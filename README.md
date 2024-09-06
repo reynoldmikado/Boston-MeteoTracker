@@ -10,4 +10,5 @@ A successful query will reveal a clearly developed graph, a filtered data table 
 
 In a nutshell, it is an educational tool and useful guide into the last 11 years of Boston's weather history.
 I hope you enjoy using this app. Cheers!
+
 Link to the app: https://reynoldyawmikado.shinyapps.io/boston_web_app/
